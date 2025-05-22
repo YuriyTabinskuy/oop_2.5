@@ -19,7 +19,7 @@ public class Customer {
         this.id = id;
     }
 
-    // Геттери і сеттери...
+
 
     @Override
     public String toString() {
